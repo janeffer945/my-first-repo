@@ -1,24 +1,25 @@
-img{
-  float:left;}
+img {
+  float: left;
+}
 .test-box {
-    border-left: 2px solid red;
-    border-right: 4px solid blue;
-    border-top: 6px solid orange;
-    border-bottom: 8px solid black;
-  }
-    h1{
-     display: flex;
-     align-items: center;
-    color:purple 
-     
-   }
-   .container p{background-color: aqua;}
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  color: purple;
+}
+.container p {
+  background-color: aqua;
+}
 
-   h1 span{
-     color: aqua;
-   }
-   body{ 
-     background-color: aqua;
-    /* font-size: large; */
-
-   }
+h1 span {
+  color: aqua;
+}
+body {
+  background-color: aqua;
+  /* font-size: large; */
+}
