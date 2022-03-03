@@ -1,4 +1,5 @@
-image{float:left;}
+img{
+  float:left;}
 .test-box {
     border-left: 2px solid red;
     border-right: 4px solid blue;
@@ -13,6 +14,11 @@ image{float:left;}
    }
    .container p{background-color: aqua;}
 
-   span{
+   h1 span{
      color: aqua;
+   }
+   body{ 
+     background-color: aqua;
+    /* font-size: large; */
+
    }
